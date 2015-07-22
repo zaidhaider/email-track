@@ -1,0 +1,2 @@
+[02-Jul-2015 05:33:38 America/New_York] PHP Warning:  require_once(C:\xampp\htdocs\lara\laravel5\bootstrap\autoload.php): failed to open stream: No such file or directory in /home/rankwatc/public_html/dev/email-track/laravel5/public/index.php on line 22
+[02-Jul-2015 05:33:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\lara\laravel5\bootstrap\autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rankwatc/public_html/dev/email-track/laravel5/public/index.php on line 22
